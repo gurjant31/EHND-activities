@@ -62,7 +62,7 @@ https://www.exploit-db.com/
 ```
 
 ### Fifth Activity - Exploiting the Vulnerability:
-This activity requires you to exploit the vulnerabilities you find in the last activity. Try to google about the exploation methods depending upon your findings. Don't be upset if you didn't get any successful explotation. List your steps you did for vulnerability exploation,submit it and be happy :)
+This activity requires you to exploit the vulnerabilities you found in the last activity. Try to google about the exploitation methods depending upon your findings. Don't be upset if you didn't get any successful exploitation. List your steps you did for vulnerability exploitation, submit it and be happy :)
 
 ```
 References:-
@@ -71,76 +71,28 @@ https://www.securitywizardry.com/index.php/products/scanning-products/vulnerabil
 ```
 
 ### Sixth Activity - Post Exploitation:
-Post Exploitaion is only possible if you are successful in your exploatation attempt.Post Exploitation means to get a reverse shell on the system and hide your shell. It will be graet if you will be successful in your post exploitation.
+Post Exploitaion is only possible if you are successful in your exploitation attempt.Post Exploitation means to get a reverse shell on the system and hide your shell. It will be graet if you will be successful in your post exploitation.
 
 ```
 You don't need reference, I know ;)
 ```
 
+### Final Assignment (Group):
 
+It's a requirement for you to create group of 3 to 4 people. You will be assigned a target for your final presentation. You have to do the penetration testing on your target and create a final penetration tesitng report. Try to apply everything that you have learned in all the activities. Final targets are listing in the target.txt file in this repo. 
+* Select a target from the target list
+* Conduct the penetration testing
+* Build the final report of your testing
+* Present the report and your finding the class
 
-2 Assignments (Group Assignment):
-Groups will prepare Penetration Testing report from 10th Exercise. This will be 20% and then group has to present their findings as a presentation which again will be 20%.
-===
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Gurjant Singh** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Gurjant Singh** - *Initial work* - [gurjant31](https://github.com/gurjant31)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
