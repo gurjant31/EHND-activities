@@ -79,11 +79,14 @@ You don't need reference, I know ;)
 
 ### Final Assignment (Group):
 
-It's a requirement for you to create group of 3 to 4 people. You will be assigned a target for your final presentation. You have to do the penetration testing on your target and create a final penetration tesitng report. Try to apply everything that you have learned in all the activities. Final targets are listing in the target.txt file in this repo. 
+It's a requirement for you to create group of 3 to 4 people. You will be assigned a target for your final presentation. You have to do the penetration testing on your target and create a final penetration tesitng report. Try to apply everything that you have learned in all the activities. Final targets are listed in the target.txt file in this repo. 
 * Select a target from the target list
 * Conduct the penetration testing
 * Build the final report of your testing
-* Present the report and your finding the class
+```
+Choose any format for your report from format.txt file
+```
+* Present the report of your findings in the class
 
 
 ## Contributing
