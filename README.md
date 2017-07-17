@@ -42,13 +42,25 @@ http://www.pearsonitcertification.com/articles/article.aspx?p=472323&seqNum=5
 ```
 
 ### Third Activity - Network Scanning:
-Network scanning is similar to the active information gathering.Use information gathered from the last 2 activities to perform this activity. Network scanning focus on scaning the network of the target and get the idea about the structure of your target. Finding out about services running on the target. This will help you in vulnerability finding activity. Build a report and submit it.
+Network scanning is similar to active information gathering.Use information gathered from the last 2 activities to perform this activity. Network scanning focuses on scanning the network of the target, getting the idea about the structure of your target and finding about the services running on your target. This will help you in finding vulnerabilities in next activity. Build a report and submit it.
 
 ```
 References:-
 https://blog.netspi.com/10-techniques-for-blindly-mapping-internal-networks/
 https://null-byte.wonderhowto.com/how-to/hack-like-pro-advanced-nmap-for-reconnaissance-0151619/
 ```
+
+### Fourth Activity - Vulnerability Scanning:
+Information gathered from the last activites should be used to search for vulnerabilities. You can use automated tools ethier just look for versions vulnerabilities for public known vulnerabilities. List those vulnerabilities in word document file and submit it.
+```
+References:-
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-find-vulnerabilities-for-any-website-using-nikto-0151729/
+http://resources.infosecinstitute.com/14-popular-web-application-vulnerability-scanners/#gref
+For Static Search:
+https://cve.mitre.org/
+https://www.exploit-db.com/
+```
+
 ======
 1st Exercise(Todays Exercise):
 Passive Information gathering: Which will include using kali and google to passively collect information about the target. This will provide deeper understanding into first phase of penetration testing.
@@ -132,7 +144,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Gurjant Singh** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -142,7 +154,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
+* Manisha Prashar
+* Parth Patel
