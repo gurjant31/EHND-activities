@@ -7,16 +7,29 @@ This repo contains the class activities for the 'Ethical Hacking and Network Def
 
 ## Getting Started
 
-These instructions will provides you details to complete each activite and required report documents. Flow each step documented in this repo. Google can be a good resource.
+These instructions provide you details to complete each activity and required report documents. Flow each step documented in this repo. Google can be a good resource.
 
 
 ```
-It is adviced to google each activity
+It is adviced to google each activity. Objective of first 6 activities to get the idea of penetration testing methods. Try to learn the steps and not focus on results at this time. Apply all learned methods to the final test to finding vulnerbailities and build your report.
 ```
+### Selecting Target for activities
+::Go to hackerone.com
+::Select any listing website as target
+::Apply all the activity methods to that target
+```
+Note: You won't be able to find any thing on those targets don't gets your hopes high. Main focus is to learn the steps.
+```
+
 
 ### First Activity - Passive Information Gathering:
-Passive 
+Passive information gathering require you to gather information about the target without intracting with it. 
 
+```
+References:-
+http://www.technicalinfo.net/papers/PassiveInfoPart1.html
+http://www.securitysift.com/passive-reconnaissance/
+```
 ======
 1st Exercise(Todays Exercise):
 Passive Information gathering: Which will include using kali and google to passively collect information about the target. This will provide deeper understanding into first phase of penetration testing.
