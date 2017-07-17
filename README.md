@@ -14,9 +14,9 @@ These instructions provide you details to complete each activity and required re
 It is adviced to google each activity. Objective of first 6 activities to get the idea of penetration testing methods. Try to learn the steps and not focus on results at this time. Apply all learned methods to the final test to finding vulnerbailities and build your report.
 ```
 ### Selecting Target for activities
-*Go to hackerone.com
-*Select any listing website as target
-*Apply all the activity methods to that target
+* Go to hackerone.com
+* Select any listing website as target
+* Apply all the activity methods to that target
 
 ```
 Note: You won't be able to find any thing on those targets don't gets your hopes high. Main focus is to learn the steps.
