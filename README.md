@@ -24,7 +24,7 @@ Note: You won't be able to find any thing on those targets don't gets your hopes
 
 
 ### First Activity - Passive Information Gathering:
-Passive information gathering require you to gather information about the target without intracting with it. Make a report out of it and submit it.
+Passive information gathering require you to gather information about the target without intracting with it. Make a report out of it which include your results,scan steps and submit it.
 
 ```
 References:-
@@ -32,13 +32,13 @@ http://www.technicalinfo.net/papers/PassiveInfoPart1.html
 http://www.securitysift.com/passive-reconnaissance/
 ```
 
-### First Activity - Passive Information Gathering:
-Passive information gathering require you to gather information about the target without intracting with it. Make a report out of it and submit it.
+### Second Activity - Active Information Gathering:
+Active information gathering means to scan your target directly with help or security scanning tools or any manual testing. Read though the references and try to use the each tool in kali to gather as much as information possible. Make a simple report of your findings and submit it.
 
 ```
 References:-
-http://www.technicalinfo.net/papers/PassiveInfoPart1.html
-http://www.securitysift.com/passive-reconnaissance/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-conduct-active-reconnaissance-and-dos-attacks-with-nmap-0146950/
+http://www.pearsonitcertification.com/articles/article.aspx?p=472323&seqNum=5
 ```
 ======
 1st Exercise(Todays Exercise):
