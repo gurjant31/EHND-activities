@@ -1,0 +1,16 @@
+## Target List
+*http://testhtml5.vulnweb.com
+*http://testphp.vulnweb.com
+*http://testasp.vulnweb.com
+*http://testaspnet.vulnweb.com
+*http://google-gruyere.appspot.com/
+*https://www.hellboundhackers.org/
+*https://www.hackthissite.org/
+*https://www.hackthis.co.uk/
+*http://overthewire.org/wargames/
+*https://hackyourselffirst.troyhunt.com/
+*http://www.try2hack.nl/
+*http://www.slavehack.com/
+*http://hackxor.sourceforge.net/cgi-bin/index.pl
+*http://webappsecmovies.sourceforge.net/webgoat/
+*https://github.com/Hackademic/hackademic

@@ -7,7 +7,7 @@ This repo contains the class activities for the 'Ethical Hacking and Network Def
 
 ## Getting Started
 
-These instructions provide you details to complete each activity and required report documents. Flow each step documented in this repo. Google can be a good resource. You are free to use any tools you see fit for your requirement.
+These instructions provide you details to complete each activity and required report documents. Follow each step documented in this repo. Google can be a good resource. You are free to use any tools you see fit for your requirement.
 
 
 ```
