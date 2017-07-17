@@ -33,12 +33,21 @@ http://www.securitysift.com/passive-reconnaissance/
 ```
 
 ### Second Activity - Active Information Gathering:
-Active information gathering means to scan your target directly with help or security scanning tools or any manual testing. Read though the references and try to use the each tool in kali to gather as much as information possible. Make a simple report of your findings and submit it.
+Active information gathering means to scan your target directly with the help of security scanning tools or any manual testing. Read through the references and try to use each tool in kali to gather as much information as possible. Make a simple report of your findings and submit it.
 
 ```
 References:-
 https://null-byte.wonderhowto.com/how-to/hack-like-pro-conduct-active-reconnaissance-and-dos-attacks-with-nmap-0146950/
 http://www.pearsonitcertification.com/articles/article.aspx?p=472323&seqNum=5
+```
+
+### Third Activity - Network Scanning:
+Network scanning is similar to the active information gathering.Use information gathered from the last 2 activities to perform this activity. Network scanning focus on scaning the network of the target and get the idea about the structure of your target. Finding out about services running on the target. This will help you in vulnerability finding activity. Build a report and submit it.
+
+```
+References:-
+https://blog.netspi.com/10-techniques-for-blindly-mapping-internal-networks/
+https://null-byte.wonderhowto.com/how-to/hack-like-pro-advanced-nmap-for-reconnaissance-0151619/
 ```
 ======
 1st Exercise(Todays Exercise):
