@@ -62,7 +62,7 @@ https://www.exploit-db.com/
 ```
 
 ### Fifth Activity - Exploiting the Vulnerability:
-This activity requires you to exploit the vulnerabilities you find in the last activity. Try to google about the exploation methods depending upon your findings. Don't be upset if you didn't get any succesful explotation. List your steps you did for vulnerability exploation,submit it and be happy :)
+This activity requires you to exploit the vulnerabilities you find in the last activity. Try to google about the exploation methods depending upon your findings. Don't be upset if you didn't get any successful explotation. List your steps you did for vulnerability exploation,submit it and be happy :)
 
 ```
 References:-
@@ -70,27 +70,14 @@ https://www.exploit-db.com/
 https://www.securitywizardry.com/index.php/products/scanning-products/vulnerability-exploitation.html
 ```
 
-======
-1st Exercise(Todays Exercise):
-Passive Information gathering: Which will include using kali and google to passively collect information about the target. This will provide deeper understanding into first phase of penetration testing.
-2nd Exercise:
-Active Information gathering: It includes interacting with the target to get information about target. This includes from Port Scanning to working with error messages.
-3nd Exercise:
-Network Scanning: Scan internal network of target to produce the internal map of the network. DNS exploitation can be possible here.
-4rd Exercise:
-Looking form Vulnerabilities: After gathering information about the target, the next step is to find the vulnerabilities in the target. This is will again use the Kali tools.No programming experience required. 
-5th Exercise:
-Exploiting the Vulnerability: This exercise will include exploitation of the simple vulnerabilities. 
-6th Exercise:
-Post Exploitation: In this exercise it require to get file from hacked machine.
+### Sixth Activity - Post Exploitation:
+Post Exploitaion is only possible if you are successful in your exploatation attempt.Post Exploitation means to get a reverse shell on the system and hide your shell. It will be graet if you will be successful in your post exploitation.
 
-From 6th Exercise the Flow of Exercise changes:
-7th Exercise:
-Cryptography Challenge: The information gathered from the 5th exercise provide the cryptography challenge file. Which requires use of google to crack the hash.
-8th,9th Exercise:
-CTF: 8th and 9th exercise will be the Capture the flag challenge. This is useful to implement all the information learned from last exercises.
-10th Exercise:
-Final challenge: Exercise required using the all information to scan target and produced the Penetration Testing report. Challenge will be completed in groups.
+```
+You don't need reference, I know ;)
+```
+
+
 
 2 Assignments (Group Assignment):
 Groups will prepare Penetration Testing report from 10th Exercise. This will be 20% and then group has to present their findings as a presentation which again will be 20%.
@@ -163,5 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Manisha Prashar
 * Parth Patel
+* Manisha Prashar
