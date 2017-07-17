@@ -7,7 +7,7 @@ This repo contains the class activities for the 'Ethical Hacking and Network Def
 
 ## Getting Started
 
-These instructions provide you details to complete each activity and required report documents. Flow each step documented in this repo. Google can be a good resource.
+These instructions provide you details to complete each activity and required report documents. Flow each step documented in this repo. Google can be a good resource. You are free to use any tools you see fit for your requirement.
 
 
 ```
@@ -42,7 +42,7 @@ http://www.pearsonitcertification.com/articles/article.aspx?p=472323&seqNum=5
 ```
 
 ### Third Activity - Network Scanning:
-Network scanning is similar to active information gathering.Use information gathered from the last 2 activities to perform this activity. Network scanning focuses on scanning the network of the target, getting the idea about the structure of your target and finding about the services running on your target. This will help you in finding vulnerabilities in next activity. Build a report and submit it.
+Network scanning is similar to active information gathering.Use information gathered from the last 2 activities to perform this activity. Network scanning focuses on scanning the network of your target, getting the idea about the structure of your target and finding about the services running on your target. This will help you in finding vulnerabilities in next activity. Build a report and submit it.
 
 ```
 References:-
@@ -51,7 +51,7 @@ https://null-byte.wonderhowto.com/how-to/hack-like-pro-advanced-nmap-for-reconna
 ```
 
 ### Fourth Activity - Vulnerability Scanning:
-Information gathered from the last activites should be used to search for vulnerabilities. You can use automated tools ethier just look for versions vulnerabilities for public known vulnerabilities. List those vulnerabilities in word document file and submit it.
+Information gathered from the last activites should be used to search for the vulnerabilities. You can use automated tools or look for the vulnerabilities depending upon the services running on your target for public known vulnerabilities. List those vulnerabilities in word document file and submit it.
 ```
 References:-
 https://null-byte.wonderhowto.com/how-to/hack-like-pro-find-vulnerabilities-for-any-website-using-nikto-0151729/
@@ -59,6 +59,15 @@ http://resources.infosecinstitute.com/14-popular-web-application-vulnerability-s
 For Static Search:
 https://cve.mitre.org/
 https://www.exploit-db.com/
+```
+
+### Fifth Activity - Exploiting the Vulnerability:
+This activity requires you to exploit the vulnerabilities you find in the last activity. Try to google about the exploation methods depending upon your findings. Don't be upset if you didn't get any succesful explotation. List your steps you did for vulnerability exploation,submit it and be happy :)
+
+```
+References:-
+https://www.exploit-db.com/
+https://www.securitywizardry.com/index.php/products/scanning-products/vulnerability-exploitation.html
 ```
 
 ======
